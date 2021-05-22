@@ -1,0 +1,12 @@
+# Strogonoff de Frango:
+
+**Negrito**
+_underline_
+
+#
+##
+###
+
+### Ingredientes
+
+ - (espaço menos espaço) Criar uma Lista não ordenada a que tem as bolinhas
